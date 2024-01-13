@@ -1,0 +1,3 @@
+3. Uzdevums
+
+Pi sskaitlis ar percizitāti ir = 3,141592653590
