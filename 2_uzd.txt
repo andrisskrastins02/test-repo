@@ -1,0 +1,5 @@
+2.Uzdevums
+
+Pi skaitlis ar precizitāti 10 = 3,1415926535
+
+:)
